@@ -1,8 +1,8 @@
 /* Basic styling for the navigation bar */
 nav {
-  background-color: #333;
+  background-color: #030303;
   color: white;
-  padding: 10px 0;
+  padding: 14px 0;
   text-align: center;
 }
 nav a {
